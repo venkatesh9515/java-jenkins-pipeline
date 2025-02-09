@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+target/
+
+# Maven build files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Eclipse, IntelliJ IDEA, NetBeans files
+*.log
+*.iml
+.idea/
+*.ipr
+*.iws
+*.swp
+/.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# MacOS, Linux, Windows system files
+.DS_Store
+Thumbs.db
+
